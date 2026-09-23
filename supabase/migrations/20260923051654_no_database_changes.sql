@@ -1,0 +1,2 @@
+-- Nenhuma alteração de banco de dados necessária para este pedido.
+-- A correção solicitada é exclusivamente visual/front-end: posicionar a imagem do barbeiro como fundo destacado do letreiro no hero da landing page.
